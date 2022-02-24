@@ -1,2 +1,2 @@
-# Kahoot-spammer123
+# Kahoot-spammer
 node.js Kahoot機器人
